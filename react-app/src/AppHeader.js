@@ -1,4 +1,5 @@
 import React, { Component } from "react"; // 1
+import "bootstrap/dist/css/bootstrap.min.css";
 import {
   Navbar,
   NavbarBrand,
